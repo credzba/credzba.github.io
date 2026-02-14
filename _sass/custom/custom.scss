@@ -1,0 +1,14 @@
+// Fix header being cut off
+.site-header {
+  border-top: none !important;
+}
+
+.main-content-wrap {
+  padding-top: 1rem;
+}
+
+// Ensure proper viewport
+html, body {
+  overflow-x: hidden;
+  position: relative;
+}
