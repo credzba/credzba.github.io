@@ -1,14 +1,9 @@
 // Fix header being cut off
+.site-title {
+  padding-top: 1rem !important;
+  margin-top: 1rem !important;
+}
+
 .site-header {
-  border-top: none !important;
-}
-
-.main-content-wrap {
-  padding-top: 1rem;
-}
-
-// Ensure proper viewport
-html, body {
-  overflow-x: hidden;
-  position: relative;
+  padding-top: 1rem !important;
 }
