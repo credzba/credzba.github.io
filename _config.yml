@@ -20,3 +20,6 @@ enable_copy_code_button: true
 aux_links:
   "View on GitHub":
     - "https://github.com/credzba/credzba.github.io"
+
+# Add custom CSS to fix viewport issue
+heading_anchors: true
